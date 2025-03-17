@@ -16,7 +16,7 @@ camunda.bpm:
   webapp.application-path:
 
 server:
-  port: 8084
+  port: 8085
   servlet.context-path: /camunda
 
 # Metrics & Health
